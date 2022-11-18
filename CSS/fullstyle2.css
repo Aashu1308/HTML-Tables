@@ -1,9 +1,9 @@
 body {
-    background-color: #7DE5ED;
+    background-color: #293462;
 }
 
 h1 {
-    color: #5837D0;
+    color: #B5525C;
     border: medium solid #f9b10b;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -11,22 +11,14 @@ h1 {
 }
 
 p {
-    color: #f54029;
+    color: #F7BE16;
     text-align: left;
     font-size: 24px;
 }
 
-th {
-    color: #f54029;
-    font-size: 24px;
-}
 
-tr {
-    color: #f54029;
-    font-size: 24px;
-}
 
 li {
-    color: #f54029;
+    color: #F7BE16;
     font-size: 24px;
 }
